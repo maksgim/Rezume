@@ -1,0 +1,82 @@
+
+#c1
+{
+    color: rgb(10, 10, 10); 
+    font-weight: bold;
+    font-size: 30px;
+    text-align: left;
+    font-family:'Roboto';
+    text-indent: 20px;
+    
+    
+    
+    
+}
+
+    #c2
+    {
+        height: 200px;
+        background-color:rgb(231, 234, 235); 
+       
+        
+
+    }
+
+#c3{
+    color: rgb(7, 7, 7); 
+    font-weight: normal;
+    font-size: 50px;
+    margin-left: 30%;
+    line-height: 10px;
+    font-family:'Roboto';
+
+}
+#c4{
+    color: rgb(10, 10, 10); 
+    font-weight: normal;
+    font-size: 25px;
+    margin-top: 70px;
+    font-family:'Roboto';
+
+    
+}
+#c5
+{
+    font-weight: normal;
+    font-size: 25px;
+    text-align: left;
+    font-family:'Roboto';
+    color: rgb(7, 7, 7);
+    background-color: rgb(231, 234, 235);
+    text-indent: 10%;
+
+}
+hr {
+    border: 0;
+    height: 1px;
+    margin-block-start: 0cm;
+    margin-block-end: 0cm;
+    background: #000;
+    background-image: -webkit-linear-gradient(left, #fff, #000, #fff);
+    background-image: -moz-linear-gradient(left, #fff, #000, #fff);
+    background-image: -ms-linear-gradient(left, #fff, #000, #fff);
+    background-image: -o-linear-gradient(left, #fff, #000, #fff);
+    }
+
+img{
+    height: 190px;
+    width: 200px;
+    border-radius: 50%;
+   
+}
+#c7
+{
+    font-size: 25px;
+    text-align: center;
+    font-weight: normal;
+    font-family:'Roboto';
+    color: black;
+    font-size: 600;
+    background-color: rgb(231, 234, 235);
+}
+
